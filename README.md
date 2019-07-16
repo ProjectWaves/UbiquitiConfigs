@@ -1,0 +1,2 @@
+# UbiquitiConfigs
+Waves Ubiquiti Configurations
